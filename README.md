@@ -70,7 +70,7 @@ GOOGLE_CLIENT_SECRET="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"
 GOOGLE_REDIRECT="http://localhost:8051/auth/google/callback"
 
 ```
-- Create a new database and name it 'appointment_models'
+- Create a new database and name it 'appointment_booking'
 - Run all of these commands:
     - composer install
     - composer update
